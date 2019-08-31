@@ -1,0 +1,16 @@
+{
+    "name": "Saltbox.Utils.Editor",
+    "references": [
+        "GUID:65e5137fbed5cca4780b1ad3ef9ca605"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
