@@ -1,11 +1,18 @@
 # Saltbox
 
-Common Utils and Extensions used in Unity.  
+Common Utils and Extensions used in Unity. 
+
+`using Saltbox;`
 
 ### Installing
-Typically this library is added to a Unity Project as a submodule under the Assets Folder.
+This Library can be installed by adding the following to your projects package manifest `{PROJECT}\Packages\manifest.json`
 
 ```
-git submodule add git@github.com:SaltboxGames/Saltbox.git Assets/Saltbox
+"com.saltboxgames.saltbox": "https://github.com/saltboxgames/saltbox.git",
 ```
 
+If you wish to use experimental or unfinished assets you can use the `develop` branch instead.
+
+```
+"com.saltboxgames.saltbox": "https://github.com/saltboxgames/saltbox.git#develop",
+```
