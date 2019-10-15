@@ -3,5 +3,8 @@
     "displayName": "Saltbox",
     "version": "0.1.1",
     "unity": "2019.2",
-    "description": "Utils and Common Assets"
+    "description": "Utils and Common Assets",
+    "publishConfig": {
+        "registry": "http://pkg.saltboxgames.com:4873"
+    }
 }
