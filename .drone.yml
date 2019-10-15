@@ -2,6 +2,7 @@ kind: pipeline
 type: docker
 name: default
 
+steps:
 - name: deploy-pkg
   image: plugins/npm
   settings:
