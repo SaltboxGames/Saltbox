@@ -2,11 +2,13 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-namespace Saltbox.Storage
+namespace Saltbox.Coroutines
 {
-    public interface DataStorage
+    public enum RoutineState
     {
-        bool Load<T>(string fileName, out T obj);
-        bool Save<T>(string fileName, T obj);
+        Ready,
+        Running,
+        Paused,
+        Finished
     }
 }

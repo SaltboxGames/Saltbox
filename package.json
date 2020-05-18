@@ -1,11 +1,11 @@
 {
     "name": "com.saltboxgames.saltbox",
     "displayName": "Saltbox",
-    "version": "0.1.3",
-    "unity": "2019.2",
+    "version": "1.0.0",
+    "unity": "2019.3",
     "description": "Utils and Common Assets",
-    "author": "dustedham",
-    "publishConfig": {
-        "registry": "http://pkg.saltboxgames.com:4873"
-    }
+    "author": {
+        "name": "DustedHam",
+        "email": "jon.gardner@Saltboxgames.com"
+      }
 }

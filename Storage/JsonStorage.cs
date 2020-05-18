@@ -25,11 +25,11 @@ namespace Saltbox.Storage
                     }
                 }
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 Debug.LogError(e);
             }
-            
+
             obj = default(T);
             return false;
         }
