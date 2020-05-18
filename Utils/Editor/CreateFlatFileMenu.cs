@@ -22,6 +22,12 @@ namespace Saltbox.Utils.Editor
             CreateFlatFile(".txt");
         }
 
+        [MenuItem(itemName: "Assets/Create/File/Markdown", priority = 2)]
+        private static void CreateMarkdown()
+        {
+            CreateFlatFile(".md");
+        }
+
         private static void CreateFlatFile(string extention, string content = "")
         {
             string path = Selection.activeObject == null ? "Assets" : AssetDatabase.GetAssetPath(Selection.activeObject.GetInstanceID());
