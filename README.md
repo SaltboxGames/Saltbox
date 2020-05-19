@@ -1,4 +1,6 @@
 # Saltbox
+[![openupm](https://img.shields.io/npm/v/com.saltboxgames.saltbox?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.saltboxgames.saltbox/)|
+|---|
 Common Utils and Extensions used in Unity. 
 
 ### Installing
