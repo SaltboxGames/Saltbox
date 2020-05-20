@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SaltboxGames/Saltbox/compare/v1.1.0...v1.1.1) (2020-05-20)
+
+
+### Bug Fixes
+
+* added changelog.meta ([c740c3a](https://github.com/SaltboxGames/Saltbox/commit/c740c3a12927841868f67a56d85300d82d6c363b))
+
 # [1.1.0](https://github.com/SaltboxGames/Saltbox/compare/v1.0.1...v1.1.0) (2020-05-20)
 
 
