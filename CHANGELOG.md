@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SaltboxGames/Saltbox/compare/v1.1.1...v1.2.0) (2020-06-06)
+
+
+### Features
+
+* added async queue ([16a14ae](https://github.com/SaltboxGames/Saltbox/commit/16a14ae2340e0045ebb90186433a45a90bd79af6))
+
 ## [1.1.1](https://github.com/SaltboxGames/Saltbox/compare/v1.1.0...v1.1.1) (2020-05-20)
 
 
